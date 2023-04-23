@@ -1,4 +1,4 @@
-# A-CRM-Applications-for-school-colleges-
+# A-CRM-Application-for-schools-colleges-
 
 Trailhead URLs
 Team lead    - https://trailblazer.me/id/akuppusamy3
